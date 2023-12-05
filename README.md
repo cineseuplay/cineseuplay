@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Play tvs sportv" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg"group-title="tnt sportv",tnt sport
+#EXTINF:-1 tvg-id="Play tvs" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg"group-title="tnt sportv",tnt sport
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-2 tvg-id="Play tvs sportv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png"group-title="tnt sportv",portv 2
